@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: gym-grid
+Version: 0.0.1
+Summary: An OpenAI Gym Environment for Custom Gridworlds.
+Home-page: 
+Author: Robert Tjrako Lange
+Author-email: robert.t.lange@tu-berlin.de
+License: MIT
+Description-Content-Type: text/markdown
